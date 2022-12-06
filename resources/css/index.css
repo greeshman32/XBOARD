@@ -1,0 +1,26 @@
+
+body{
+    font-family: Montserrat,sans-serif!important;
+}
+
+.rect{
+    width: 27px;
+    height: 9px;
+    background-color:#E537B9 ;
+    border-radius: 4.5px;
+}
+.navbar-brand{
+    margin: 10px 5vw!important;
+}
+
+.navbar{
+    border-bottom: 1px solid lightgray;
+}
+
+.hover{
+    height: 40%;
+}
+
+.hover:hover{
+    filter:brightness(50%) ;
+}
